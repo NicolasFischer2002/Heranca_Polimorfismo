@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Micro\\Desktop\\Heran\u00E7a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F17C21-57C9-46C1-AD66-6115DD162C4B}|Heran\u00E7a.csproj|C:\\Users\\Micro\\Desktop\\Heran\u00E7a\\classes\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F17C21-57C9-46C1-AD66-6115DD162C4B}|Heran\u00E7a.csproj|solutionrelative:classes\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F17C21-57C9-46C1-AD66-6115DD162C4B}|Heran\u00E7a.csproj|c:\\users\\micro\\desktop\\heran\u00E7a\\classes\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F17C21-57C9-46C1-AD66-6115DD162C4B}|Heran\u00E7a.csproj|solutionrelative:classes\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F17C21-57C9-46C1-AD66-6115DD162C4B}|Heran\u00E7a.csproj|C:\\Users\\Micro\\Desktop\\Heran\u00E7a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F17C21-57C9-46C1-AD66-6115DD162C4B}|Heran\u00E7a.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Heran\u00E7a\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Heran\u00E7a\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:13:30.43Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Heran\u00E7a\\Classes\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Classes\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Heran\u00E7a\\Classes\\Veiculo.cs",
+              "RelativeToolTip": "Classes\\Veiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:14:03.327Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Heran\u00E7a\\Classes\\Carro.cs",
+              "RelativeDocumentMoniker": "Classes\\Carro.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Heran\u00E7a\\Classes\\Carro.cs",
+              "RelativeToolTip": "Classes\\Carro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:25:11.184Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
